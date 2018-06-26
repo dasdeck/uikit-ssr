@@ -1,0 +1,11 @@
+{
+    "name": "uikit-ssr",
+    "version": "1.0.0",
+    "browser": "browser.js",
+    "main": "node.js",
+    "dependencies": {
+        "jsdom": "^11.11.0",
+        "jsdom-global": "^3.0.2",
+        "uikit": "latest"
+    }
+}
